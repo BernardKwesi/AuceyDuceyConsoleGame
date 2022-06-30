@@ -1,0 +1,15 @@
+/home/bernard/Desktop/c#/consolegames/AceyDucey/bin/Debug/net6.0/AceyDucey
+/home/bernard/Desktop/c#/consolegames/AceyDucey/bin/Debug/net6.0/AceyDucey.deps.json
+/home/bernard/Desktop/c#/consolegames/AceyDucey/bin/Debug/net6.0/AceyDucey.runtimeconfig.json
+/home/bernard/Desktop/c#/consolegames/AceyDucey/bin/Debug/net6.0/AceyDucey.dll
+/home/bernard/Desktop/c#/consolegames/AceyDucey/bin/Debug/net6.0/AceyDucey.pdb
+/home/bernard/Desktop/c#/consolegames/AceyDucey/obj/Debug/net6.0/AceyDucey.csproj.AssemblyReference.cache
+/home/bernard/Desktop/c#/consolegames/AceyDucey/obj/Debug/net6.0/AceyDucey.GeneratedMSBuildEditorConfig.editorconfig
+/home/bernard/Desktop/c#/consolegames/AceyDucey/obj/Debug/net6.0/AceyDucey.AssemblyInfoInputs.cache
+/home/bernard/Desktop/c#/consolegames/AceyDucey/obj/Debug/net6.0/AceyDucey.AssemblyInfo.cs
+/home/bernard/Desktop/c#/consolegames/AceyDucey/obj/Debug/net6.0/AceyDucey.csproj.CoreCompileInputs.cache
+/home/bernard/Desktop/c#/consolegames/AceyDucey/obj/Debug/net6.0/AceyDucey.dll
+/home/bernard/Desktop/c#/consolegames/AceyDucey/obj/Debug/net6.0/refint/AceyDucey.dll
+/home/bernard/Desktop/c#/consolegames/AceyDucey/obj/Debug/net6.0/AceyDucey.pdb
+/home/bernard/Desktop/c#/consolegames/AceyDucey/obj/Debug/net6.0/AceyDucey.genruntimeconfig.cache
+/home/bernard/Desktop/c#/consolegames/AceyDucey/obj/Debug/net6.0/ref/AceyDucey.dll
